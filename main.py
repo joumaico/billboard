@@ -6,6 +6,7 @@ from skcriteria.agg import simple
 from skcriteria.preprocessing import invert_objectives
 
 import json
+import numpy as np
 import os
 import pathlib
 import requests
@@ -63,6 +64,7 @@ for folder in ('.tmp', 'data'):
 
 # start date must be after 2023-09-17
 start, end = date(2023, 9, 18), datetime.now().date()
+
 while start <= end:
     if start.weekday() == 6:
         dt = start.strftime("%Y-%m-%d")
@@ -72,7 +74,6 @@ while start <= end:
             f.write(resp.text)
         time.sleep(2)
     start += timedelta(days=1)
-
 
 for name in sorted(os.listdir('.tmp')):
     path = f'.tmp/{name}'
@@ -100,9 +101,9 @@ rank = dec.evaluate(dmt)
 performance = []
 
 for song, rank in zip(list(counter.keys()), rank.rank_):
-    performance.append([song, rank])
+    performance.append((song, int(np.int64(rank))))
 
-data = dict(sorted(performance, key=lambda x: x[1]))
+data = sorted(performance, key=lambda x: x[1])
 
 with open('README.md', 'w') as f:
     end = sorted(os.listdir('data'))[-1].replace('.json', '')
@@ -112,8 +113,21 @@ with open('README.md', 'w') as f:
     f.write(f'## Ranking [2000-01-02 - {end}]\n\n')
     f.write('| Title  | Artist | Rank |\n')
     f.write('| ------------- | ------------- | ------------- |\n')
-    for k, v in data.items():
-        row = [*eval(k), str(v)]
-        f.write(f"| {' | '.join(row)} |\n")
+    for d in data:
+        f.write(f"| {' | '.join([*eval(d[0]), str(d[1])])} |\n")
+
+# get the top 2% performing songs
+analyze = dict(data[:int(len(data) * 0.02)])
+maximum = list(analyze.items())[-1][1]
+
+# include the overflowed item
+for d in data:
+    if d[1] > maximum:
+        break
+    if d[0] not in analyze:
+        analyze[d[0]] = d[1]
+
+with open('analyze.json', 'w') as f:
+    f.write(json.dumps(analyze))
 
 shutil.rmtree('.tmp')
