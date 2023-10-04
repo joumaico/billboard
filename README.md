@@ -1,9 +1,5 @@
 # GREATEST SONGS OF THE CENTURY
 
-## Source Data
-
-**[↓ Billboard+Hot+100.2000_01_02-2023_09_17.raw.tar.gz](https://s3.ap-southeast-1.amazonaws.com/static.joumaico.me/Billboard+Hot+100.2000_01_02-2023_09_17.raw.tar.gz)**
-
 ## Ranking [2000-01-02 - 2023-10-01]
 
 | Title  | Artist | Rank |

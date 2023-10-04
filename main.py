@@ -55,8 +55,6 @@ with open('export.json', 'w') as f:
 with open('README.md', 'w') as f:
     end = sorted(os.listdir('data'))[-1].replace('.json', '')
     f.write('# GREATEST SONGS OF THE CENTURY\n\n')
-    f.write('## Source Data\n\n')
-    f.write('**[↓ Billboard+Hot+100.2000_01_02-2023_09_17.raw.tar.gz](https://s3.ap-southeast-1.amazonaws.com/static.joumaico.me/Billboard+Hot+100.2000_01_02-2023_09_17.raw.tar.gz)**\n\n')
     f.write(f'## Ranking [2000-01-02 - {end}]\n\n')
     f.write('| Title  | Artist | Rank |\n')
     f.write('| ------------- | ------------- | ------------- |\n')
