@@ -49,6 +49,9 @@ for song, rank in zip(list(counter.keys()), rank.rank_):
 
 data = sorted(perf, key=lambda x: x[1])
 
+with open('export.json', 'w') as f:
+    f.write(json.dumps({"data": data}))
+
 with open('README.md', 'w') as f:
     end = sorted(os.listdir('data'))[-1].replace('.json', '')
     f.write('# GREATEST SONGS OF THE CENTURY\n\n')
@@ -59,17 +62,3 @@ with open('README.md', 'w') as f:
     f.write('| ------------- | ------------- | ------------- |\n')
     for d in data:
         f.write(f"| {' | '.join([*eval(d[0]), str(d[1])])} |\n")
-
-# get the top 2% performing songs
-analyze = dict(data[:int(len(data) * 0.02)])
-maximum = list(analyze.items())[-1][1]
-
-# include the overflowed item
-for d in data:
-    if d[1] > maximum:
-        break
-    if d[0] not in analyze:
-        analyze[d[0]] = d[1]
-
-with open('analyze.json', 'w') as f:
-    f.write(json.dumps(analyze))
