@@ -12,8 +12,11 @@ import os
 import skcriteria as skc
 import time
 
-# start date must be after 2023-09-17
-start, end = date(2023, 9, 18), datetime.now().date()
+start = sorted(os.listdir('data'))[-1].split('.')[0]
+start = datetime.strptime(start, '%Y-%m-%d') + timedelta(weeks=1)
+start = start.date()
+
+end = datetime.now().date()
 
 while start <= end:
     if start.weekday() == 6:
@@ -24,9 +27,10 @@ while start <= end:
         time.sleep(1)
     start += timedelta(days=1)
 
+listdir = sorted(os.listdir('data'))
 counter = dict()
 
-for name in sorted(os.listdir('data')):
+for name in listdir:
     with open(f'data/{name}', 'r') as f:
         d = json.loads(f.read())
     items = list(d.values())[0]
@@ -48,15 +52,16 @@ for song, rank in zip(list(counter.keys()), rank.rank_):
     perf.append((song, int(np.int64(rank))))
 
 data = sorted(perf, key=lambda x: x[1])
+data = [{'title': eval(d[0])[0], 'artist': eval(d[0])[1], 'rank': d[1]} for d in data]
 
 with open('export.json', 'w') as f:
-    f.write(json.dumps({"data": data}))
+    f.write(json.dumps({'data': data}))
 
 with open('README.md', 'w') as f:
-    end = sorted(os.listdir('data'))[-1].replace('.json', '')
+    end = listdir[-1].replace('.json', '')
     f.write('# GREATEST SONGS OF THE CENTURY\n\n')
     f.write(f'## Ranking [2000-01-02 - {end}]\n\n')
     f.write('| Title  | Artist | Rank |\n')
     f.write('| ------------- | ------------- | ------------- |\n')
     for d in data:
-        f.write(f"| {' | '.join([*eval(d[0]), str(d[1])])} |\n")
+        f.write(f"| {' | '.join(map(str, d.values()))} |\n")
