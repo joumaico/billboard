@@ -1,6 +1,6 @@
 #!/usr/bin/python3.11
 
-from datetime import date, datetime, timedelta
+from datetime import datetime, timedelta
 from skcriteria.agg import simple
 from skcriteria.preprocessing import invert_objectives
 
