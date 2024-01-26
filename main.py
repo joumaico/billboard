@@ -58,9 +58,10 @@ with open('export.json', 'w') as f:
     f.write(json.dumps({'data': data}))
 
 with open('README.md', 'w') as f:
+    start = listdir[0].replace('.json', '')
     end = listdir[-1].replace('.json', '')
     f.write('# GREATEST SONGS OF THE CENTURY\n\n')
-    f.write(f'## Ranking [2000-01-02 - {end}]\n\n')
+    f.write(f'## Ranking [{start} - {end}]\n\n')
     f.write('| Title  | Artist | Rank |\n')
     f.write('| ------------- | ------------- | ------------- |\n')
     for d in data:
