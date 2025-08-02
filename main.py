@@ -1,11 +1,11 @@
 from aiohttp import ClientSession
 from asyncio import Semaphore
-from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 from tqdm.asyncio import tqdm_asyncio
 
+from parser import Parser
+
 import asyncio
-import typing as t
 import unisql
 import unisql.asyncio
 
@@ -54,70 +54,12 @@ def ranking():
     db.close()
 
 
-def htmlparser(markup: str) -> t.List[t.List[t.Any]]:
-    """
-    Extracts song information from a Billboard chart HTML markup.
-
-    Parameters
-    ----------
-    markup (str)
-        The HTML markup containing the Billboard chart data.
-
-    Returns
-    -------
-    List[List[Any]]
-        A list of lists containing song information. Each sublist represents a song and contains the following data:
-            - Current position (int)
-            - Title (str)
-            - Artist (str)
-            - Last week's position (int)
-            - Peak position (int)
-            - Weeks on chart (int)
-
-    Examples
-    --------
-    >>> markup = '<div class='o-chart-results-list-row-container'>...</div>'
-    >>> data = htmlparser(markup)
-    >>> data[0]
-    [1, 'Watermelon Sugar', 'Harry Styles', 3, 1, 20]
-    """
-
-    def nowhitespace(k): return k.replace('\t', '').replace('\n', '')
-
-    data = []
-
-    soup = BeautifulSoup(markup, features='html.parser')
-    rows = soup.select('div.o-chart-results-list-row-container')
-
-    for row in rows:
-        song = []
-        for i, j in enumerate(row.select('li')):
-            if i == 4:
-                for sec in ('h3', 'span'):
-                    song.append(nowhitespace(j.select(sec)[0].text))
-            else:
-                j = nowhitespace(j.text)
-                match i:
-                    case 0:
-                        j = j.replace('NEW', '').replace('RE-ENTRY', '')
-                        song.append(int(j))
-                    case 13:
-                        song.append(0 if j == '-' else int(j))
-                    case 14:
-                        song.append(int(j))
-                    case 15:
-                        song.append(int(j))
-        data.append(song)
-
-    return data
-
-
 async def worker(date: str, db: unisql.asyncio.connect, session: ClientSession, semaphore: Semaphore) -> None:
     async with semaphore:
         async with session.get(f'https://www.billboard.com/charts/hot-100/{date}/') as r:
-            if (data := htmlparser(await r.text())):
+            if (data := Parser.parse(await r.text())):
                 query = 'INSERT INTO chart(date, title, artist, position) VALUES(?, ?, ?, ?);'
-                value = [(date, d[1], d[2], d[0]) for d in data]
+                value = [(date, j['title'], j['artist'], i) for i, j in enumerate(data, start=1)]
                 await db.execute(query, value)
 
 
