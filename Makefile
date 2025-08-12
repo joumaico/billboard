@@ -11,3 +11,9 @@ update:
 	git add .
 	git commit -m "Update README.md with latest information"
 	git push origin main
+
+test:
+	. .venv/bin/activate && \
+	python -m pytest && \
+	deactivate
+
