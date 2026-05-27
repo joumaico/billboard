@@ -1,6 +1,6 @@
 # Billboard's Historical Ranking
 
-## Top 500 [2000-01-08 - 2026-05-23]
+## Top 500 [2000-01-08 - 2026-05-30]
 
 | Rank |                     Title                     |                                  Artist                                  |   Entry    | Score |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------------------: | :--------: | :---: |
@@ -150,17 +150,17 @@
 | 133  |                 Wasted On You                 |                              Morgan Wallen                               | 2021-01-23 |  3675 |
 | 134  |                    Rockstar                   |                       DaBaby Featuring Roddy Ricch                       | 2020-05-02 |  3661 |
 | 135  |                    Breathe                    |                                Faith Hill                                | 2000-01-08 |  3647 |
-| 136  |                     Royals                    |                                  Lorde                                   | 2013-07-20 |  3629 |
-| 137  |                  Stick Season                 |                                Noah Kahan                                | 2023-10-14 |  3622 |
-| 138  |                     Lights                    |                              Ellie Goulding                              | 2011-08-20 |  3620 |
-| 139  |               Shut Up And Dance               |                              WALK THE MOON                               | 2014-11-22 |  3613 |
-| 140  |                    Rockstar                   |                     Post Malone Featuring 21 Savage                      | 2017-10-07 |  3607 |
-| 140  |                 We Found Love                 |                     Rihanna Featuring Calvin Harris                      | 2011-10-08 |  3607 |
-| 141  |                  Whats Poppin                 |           Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne           | 2020-02-22 |  3602 |
-| 142  |                 Love Yourself                 |                              Justin Bieber                               | 2015-12-05 |  3579 |
-| 143  |                   The Bones                   |                               Maren Morris                               | 2019-09-14 |  3575 |
-| 144  |                   Big Energy                  |                                  Latto                                   | 2021-11-06 |  3574 |
-| 145  |                     Folded                    |                                 Kehlani                                  | 2025-06-28 |  3572 |
+| 136  |                     Folded                    |                                 Kehlani                                  | 2025-06-28 |  3644 |
+| 137  |                     Royals                    |                                  Lorde                                   | 2013-07-20 |  3629 |
+| 138  |                  Stick Season                 |                                Noah Kahan                                | 2023-10-14 |  3622 |
+| 139  |                     Lights                    |                              Ellie Goulding                              | 2011-08-20 |  3620 |
+| 140  |               Shut Up And Dance               |                              WALK THE MOON                               | 2014-11-22 |  3613 |
+| 141  |                    Rockstar                   |                     Post Malone Featuring 21 Savage                      | 2017-10-07 |  3607 |
+| 141  |                 We Found Love                 |                     Rihanna Featuring Calvin Harris                      | 2011-10-08 |  3607 |
+| 142  |                  Whats Poppin                 |           Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne           | 2020-02-22 |  3602 |
+| 143  |                 Love Yourself                 |                              Justin Bieber                               | 2015-12-05 |  3579 |
+| 144  |                   The Bones                   |                               Maren Morris                               | 2019-09-14 |  3575 |
+| 145  |                   Big Energy                  |                                  Latto                                   | 2021-11-06 |  3574 |
 | 146  |                   Breakaway                   |                              Kelly Clarkson                              | 2004-08-28 |  3571 |
 | 147  |                    Lean On                    |                   Major Lazer X DJ Snake Featuring MO                    | 2015-04-25 |  3570 |
 | 148  |                   Just Dance                  |                    Lady Gaga Featuring Colby O'Donis                     | 2008-08-16 |  3567 |
@@ -182,22 +182,22 @@
 | 163  |                   Fancy Like                  |                               Walker Hayes                               | 2021-07-03 |  3501 |
 | 164  |              Say You Won't Let Go             |                               James Arthur                               | 2016-11-12 |  3489 |
 | 165  |               Can't Feel My Face              |                                The Weeknd                                | 2015-06-27 |  3478 |
-| 166  |                    Someday                    |                                Nickelback                                | 2003-08-23 |  3464 |
-| 166  |                     Sugar                     |                                 Maroon 5                                 | 2015-01-31 |  3464 |
-| 167  |               Sexy And I Know It              |                                  LMFAO                                   | 2011-09-17 |  3447 |
-| 168  |                     No One                    |                               Alicia Keys                                | 2007-09-22 |  3446 |
-| 169  |                   This Love                   |                                 Maroon 5                                 | 2004-02-14 |  3442 |
-| 170  |                     Greedy                    |                                Tate McRae                                | 2023-09-30 |  3438 |
-| 171  |                   Wait For U                  |                      Future Featuring Drake & Tems                       | 2022-05-14 |  3426 |
-| 172  |                 Family Affair                 |                              Mary J. Blige                               | 2001-07-28 |  3425 |
-| 173  |               If I Ain't Got You              |                               Alicia Keys                                | 2004-03-06 |  3424 |
-| 174  |                 Feliz Navidad                 |                              Jose Feliciano                              | 2017-01-07 |  3419 |
-| 175  |                   Sure Thing                  |                                  Miguel                                  | 2011-03-26 |  3410 |
-| 176  |                   Chandelier                  |                                   Sia                                    | 2014-05-24 |  3405 |
-| 177  |                 Before You Go                 |                              Lewis Capaldi                               | 2020-02-08 |  3400 |
-| 178  |                It's Been Awhile               |                                  Staind                                  | 2001-04-14 |  3392 |
-| 179  |                      Low                      |                        Flo Rida Featuring T-Pain                         | 2007-11-10 |  3390 |
-| 180  |                   Man I Need                  |                               Olivia Dean                                | 2025-09-06 |  3389 |
+| 166  |                   Man I Need                  |                               Olivia Dean                                | 2025-09-06 |  3473 |
+| 167  |                    Someday                    |                                Nickelback                                | 2003-08-23 |  3464 |
+| 167  |                     Sugar                     |                                 Maroon 5                                 | 2015-01-31 |  3464 |
+| 168  |               Sexy And I Know It              |                                  LMFAO                                   | 2011-09-17 |  3447 |
+| 169  |                     No One                    |                               Alicia Keys                                | 2007-09-22 |  3446 |
+| 170  |                   This Love                   |                                 Maroon 5                                 | 2004-02-14 |  3442 |
+| 171  |                     Greedy                    |                                Tate McRae                                | 2023-09-30 |  3438 |
+| 172  |                   Wait For U                  |                      Future Featuring Drake & Tems                       | 2022-05-14 |  3426 |
+| 173  |                 Family Affair                 |                              Mary J. Blige                               | 2001-07-28 |  3425 |
+| 174  |               If I Ain't Got You              |                               Alicia Keys                                | 2004-03-06 |  3424 |
+| 175  |                 Feliz Navidad                 |                              Jose Feliciano                              | 2017-01-07 |  3419 |
+| 176  |                   Sure Thing                  |                                  Miguel                                  | 2011-03-26 |  3410 |
+| 177  |                   Chandelier                  |                                   Sia                                    | 2014-05-24 |  3405 |
+| 178  |                 Before You Go                 |                              Lewis Capaldi                               | 2020-02-08 |  3400 |
+| 179  |                It's Been Awhile               |                                  Staind                                  | 2001-04-14 |  3392 |
+| 180  |                      Low                      |                        Flo Rida Featuring T-Pain                         | 2007-11-10 |  3390 |
 | 181  |                    Thunder                    |                             Imagine Dragons                              | 2017-05-20 |  3383 |
 | 182  |                 When I'm Gone                 |                               3 Doors Down                               | 2002-11-23 |  3380 |
 | 183  |     Let It Snow! Let It Snow! Let It Snow!    |                               Dean Martin                                | 2018-12-15 |  3373 |
@@ -365,51 +365,51 @@
 | 324  |            Thought You Should Know            |                              Morgan Wallen                               | 2022-05-21 |  2814 |
 | 325  |                   Thank God                   |                      Kane Brown With Katelyn Brown                       | 2022-09-24 |  2811 |
 | 326  |                 Boom Boom Pow                 |                           The Black Eyed Peas                            | 2009-03-28 |  2810 |
-| 327  |                    Forever                    |                               Chris Brown                                | 2008-05-10 |  2805 |
-| 327  |         Waiting On The World To Change        |                                John Mayer                                | 2006-07-29 |  2805 |
-| 328  |                     Closer                    |                                  Ne-Yo                                   | 2008-05-03 |  2801 |
-| 329  |              Love Me Like You Do              |                              Ellie Goulding                              | 2015-01-24 |  2797 |
-| 329  |                Pumped Up Kicks                |                            Foster The People                             | 2011-05-14 |  2797 |
-| 330  |                     Saturn                    |                                   SZA                                    | 2024-03-09 |  2795 |
-| 331  |                     Roses                     |                                SAINt JHN                                 | 2020-04-04 |  2785 |
-| 331  |                    Vampire                    |                              Olivia Rodrigo                              | 2023-07-15 |  2785 |
-| 332  |                    Rockstar                   |                                Nickelback                                | 2006-10-14 |  2783 |
-| 332  |            What Makes You Beautiful           |                              One Direction                               | 2012-03-03 |  2783 |
-| 333  |            I Knew You Were Trouble.           |                               Taylor Swift                               | 2012-10-27 |  2780 |
-| 333  |                    SexyBack                   |                            Justin Timberlake                             | 2006-07-22 |  2780 |
-| 334  |                    Grenade                    |                                Bruno Mars                                | 2010-10-16 |  2778 |
-| 335  |              Set Fire To The Rain             |                                  Adele                                   | 2011-03-12 |  2776 |
-| 336  |                      Suge                     |                                  DaBaby                                  | 2019-04-13 |  2774 |
-| 337  |                      Ride                     |                            Twenty One Pilots                             | 2016-04-02 |  2762 |
-| 337  |                Want To Want Me                |                               Jason Derulo                               | 2015-03-28 |  2762 |
-| 338  |                   The Motto                   |                        Drake Featuring Lil Wayne                         | 2011-12-03 |  2757 |
-| 339  |           Hold On, We're Going Home           |                       Drake Featuring Majid Jordan                       | 2013-08-24 |  2756 |
-| 340  |                     Say So                    |                      Doja Cat Featuring Nicki Minaj                      | 2020-01-18 |  2755 |
-| 341  |                 Teenage Dream                 |                                Katy Perry                                | 2010-08-07 |  2754 |
-| 342  |                I Won't Give Up                |                                Jason Mraz                                | 2012-01-21 |  2752 |
-| 343  |                Titi Me Pregunto               |                                Bad Bunny                                 | 2022-05-21 |  2749 |
-| 344  |               What Do You Mean?               |                              Justin Bieber                               | 2015-09-19 |  2748 |
-| 345  |                     No Air                    |                   Jordin Sparks Duet With Chris Brown                    | 2008-01-19 |  2747 |
-| 346  |                    Payphone                   |                      Maroon 5 Featuring Wiz Khalifa                      | 2012-05-05 |  2744 |
-| 347  |               Hey There Delilah               |                             Plain White T's                              | 2007-04-14 |  2743 |
-| 348  |                      Sad!                     |                               XXXTENTACION                               | 2018-03-17 |  2740 |
-| 349  |                 Stereo Hearts                 |                  Gym Class Heroes Featuring Adam Levine                  | 2011-07-02 |  2736 |
-| 350  |                   It's Time                   |                             Imagine Dragons                              | 2012-06-23 |  2735 |
-| 351  |                   Talk Dirty                  |                     Jason Derulo Featuring 2 Chainz                      | 2014-01-04 |  2734 |
-| 352  |              Let Me Blow Ya Mind              |                        Eve Featuring Gwen Stefani                        | 2001-04-28 |  2733 |
-| 353  |                    Hey Ya!                    |                                 OutKast                                  | 2003-10-18 |  2732 |
-| 354  |                 1-800-273-8255                |                  Logic Featuring Alessia Cara & Khalid                   | 2017-05-20 |  2730 |
-| 355  |                  Dance Monkey                 |                               Tones And I                                | 2019-10-19 |  2728 |
-| 355  |                Sorry Not Sorry                |                               Demi Lovato                                | 2017-07-29 |  2728 |
-| 355  |                 XO TOUR Llif3                 |                               Lil Uzi Vert                               | 2017-04-15 |  2728 |
-| 356  |                Watermelon Sugar               |                               Harry Styles                               | 2019-11-30 |  2725 |
-| 357  |                    Fallin'                    |                               Alicia Keys                                | 2001-06-16 |  2722 |
-| 357  |                 Santa Tell Me                 |                              Ariana Grande                               | 2014-12-13 |  2722 |
-| 358  |                  Love Me Not                  |                               Ravyn Lenae                                | 2025-04-12 |  2721 |
-| 358  |                     Wanted                    |                               Hunter Hayes                               | 2012-05-12 |  2721 |
-| 359  |        I Know You Want Me (Calle Ocho)        |                                 Pitbull                                  | 2009-03-14 |  2719 |
-| 360  |                Everybody Talks                |                                Neon Trees                                | 2012-03-31 |  2716 |
-| 361  |                 Choosin' Texas                |                               Ella Langley                               | 2025-11-01 |  2711 |
+| 327  |                 Choosin' Texas                |                               Ella Langley                               | 2025-11-01 |  2807 |
+| 328  |                    Forever                    |                               Chris Brown                                | 2008-05-10 |  2805 |
+| 328  |         Waiting On The World To Change        |                                John Mayer                                | 2006-07-29 |  2805 |
+| 329  |                     Closer                    |                                  Ne-Yo                                   | 2008-05-03 |  2801 |
+| 330  |              Love Me Like You Do              |                              Ellie Goulding                              | 2015-01-24 |  2797 |
+| 330  |                Pumped Up Kicks                |                            Foster The People                             | 2011-05-14 |  2797 |
+| 331  |                     Saturn                    |                                   SZA                                    | 2024-03-09 |  2795 |
+| 332  |                     Roses                     |                                SAINt JHN                                 | 2020-04-04 |  2785 |
+| 332  |                    Vampire                    |                              Olivia Rodrigo                              | 2023-07-15 |  2785 |
+| 333  |                    Rockstar                   |                                Nickelback                                | 2006-10-14 |  2783 |
+| 333  |            What Makes You Beautiful           |                              One Direction                               | 2012-03-03 |  2783 |
+| 334  |            I Knew You Were Trouble.           |                               Taylor Swift                               | 2012-10-27 |  2780 |
+| 334  |                    SexyBack                   |                            Justin Timberlake                             | 2006-07-22 |  2780 |
+| 335  |                    Grenade                    |                                Bruno Mars                                | 2010-10-16 |  2778 |
+| 336  |              Set Fire To The Rain             |                                  Adele                                   | 2011-03-12 |  2776 |
+| 337  |                      Suge                     |                                  DaBaby                                  | 2019-04-13 |  2774 |
+| 338  |                      Ride                     |                            Twenty One Pilots                             | 2016-04-02 |  2762 |
+| 338  |                Want To Want Me                |                               Jason Derulo                               | 2015-03-28 |  2762 |
+| 339  |                   The Motto                   |                        Drake Featuring Lil Wayne                         | 2011-12-03 |  2757 |
+| 340  |           Hold On, We're Going Home           |                       Drake Featuring Majid Jordan                       | 2013-08-24 |  2756 |
+| 341  |                     Say So                    |                      Doja Cat Featuring Nicki Minaj                      | 2020-01-18 |  2755 |
+| 342  |                 Teenage Dream                 |                                Katy Perry                                | 2010-08-07 |  2754 |
+| 343  |                I Won't Give Up                |                                Jason Mraz                                | 2012-01-21 |  2752 |
+| 344  |                Titi Me Pregunto               |                                Bad Bunny                                 | 2022-05-21 |  2749 |
+| 345  |               What Do You Mean?               |                              Justin Bieber                               | 2015-09-19 |  2748 |
+| 346  |                     No Air                    |                   Jordin Sparks Duet With Chris Brown                    | 2008-01-19 |  2747 |
+| 347  |                    Payphone                   |                      Maroon 5 Featuring Wiz Khalifa                      | 2012-05-05 |  2744 |
+| 348  |               Hey There Delilah               |                             Plain White T's                              | 2007-04-14 |  2743 |
+| 349  |                      Sad!                     |                               XXXTENTACION                               | 2018-03-17 |  2740 |
+| 350  |                 Stereo Hearts                 |                  Gym Class Heroes Featuring Adam Levine                  | 2011-07-02 |  2736 |
+| 351  |                   It's Time                   |                             Imagine Dragons                              | 2012-06-23 |  2735 |
+| 352  |                   Talk Dirty                  |                     Jason Derulo Featuring 2 Chainz                      | 2014-01-04 |  2734 |
+| 353  |              Let Me Blow Ya Mind              |                        Eve Featuring Gwen Stefani                        | 2001-04-28 |  2733 |
+| 354  |                    Hey Ya!                    |                                 OutKast                                  | 2003-10-18 |  2732 |
+| 355  |                 1-800-273-8255                |                  Logic Featuring Alessia Cara & Khalid                   | 2017-05-20 |  2730 |
+| 356  |                  Dance Monkey                 |                               Tones And I                                | 2019-10-19 |  2728 |
+| 356  |                Sorry Not Sorry                |                               Demi Lovato                                | 2017-07-29 |  2728 |
+| 356  |                 XO TOUR Llif3                 |                               Lil Uzi Vert                               | 2017-04-15 |  2728 |
+| 357  |                Watermelon Sugar               |                               Harry Styles                               | 2019-11-30 |  2725 |
+| 358  |                    Fallin'                    |                               Alicia Keys                                | 2001-06-16 |  2722 |
+| 358  |                 Santa Tell Me                 |                              Ariana Grande                               | 2014-12-13 |  2722 |
+| 359  |                  Love Me Not                  |                               Ravyn Lenae                                | 2025-04-12 |  2721 |
+| 359  |                     Wanted                    |                               Hunter Hayes                               | 2012-05-12 |  2721 |
+| 360  |        I Know You Want Me (Calle Ocho)        |                                 Pitbull                                  | 2009-03-14 |  2719 |
+| 361  |                Everybody Talks                |                                Neon Trees                                | 2012-03-31 |  2716 |
 | 362  |            Behind These Hazel Eyes            |                              Kelly Clarkson                              | 2005-04-23 |  2708 |
 | 362  |                   Starships                   |                               Nicki Minaj                                | 2012-03-03 |  2708 |
 | 363  |                 Wrecking Ball                 |                               Miley Cyrus                                | 2013-09-07 |  2707 |
@@ -504,6 +504,7 @@
 | 429  |                   Let It Go                   |                               Idina Menzel                               | 2013-12-14 |  2542 |
 | 429  |                  Walk It Out                  |                                   Unk                                    | 2006-09-23 |  2542 |
 | 430  |                   Get Lucky                   |                  Daft Punk Featuring Pharrell Williams                   | 2013-05-04 |  2541 |
+| 430  |           So Easy (To Fall In Love)           |                               Olivia Dean                                | 2025-10-11 |  2541 |
 | 431  |                 Lonely No More                |                                Rob Thomas                                | 2005-02-19 |  2538 |
 | 432  |                     TV Off                    |                  Kendrick Lamar Featuring Lefty Gunplay                  | 2024-12-07 |  2534 |
 | 433  |                  I Will Wait                  |                              Mumford & Sons                              | 2012-08-25 |  2531 |
@@ -547,7 +548,6 @@
 | 459  |                Raise Your Glass               |                                   P!nk                                   | 2010-10-23 |  2465 |
 | 459  |                  The Monster                  |                         Eminem Featuring Rihanna                         | 2013-11-16 |  2465 |
 | 460  |      Cups (Pitch Perfect's When I'm Gone)     |                              Anna Kendrick                               | 2013-01-12 |  2460 |
-| 460  |           So Easy (To Fall In Love)           |                               Olivia Dean                                | 2025-10-11 |  2460 |
 | 461  |              Shake Ya Tailfeather             |                       Nelly, P. Diddy & Murphy Lee                       | 2003-06-28 |  2458 |
 | 462  |            Hit 'Em Up Style (Oops!)           |                               Blu Cantrell                               | 2001-05-05 |  2457 |
 | 463  |                     Mercy                     |                 Kanye West, Big Sean, Pusha T, 2 Chainz                  | 2012-04-21 |  2456 |
