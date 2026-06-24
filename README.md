@@ -1,6 +1,6 @@
 # Billboard's Historical Ranking
 
-## Top 500 [2000-01-08 - 2026-06-20]
+## Top 500 [2000-01-08 - 2026-06-27]
 
 | Rank |                     Title                     |                                  Artist                                  |   Entry    | Score |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------------------: | :--------: | :---: |
@@ -128,16 +128,16 @@
 | 112  |                   Calm Down                   |                           Rema & Selena Gomez                            | 2022-09-17 |  3855 |
 | 113  |                 Blurred Lines                 |                  Robin Thicke Featuring T.I. + Pharrell                  | 2013-05-04 |  3850 |
 | 114  |                    Dynamite                   |                                Taio Cruz                                 | 2010-06-19 |  3845 |
-| 115  |             F**k You! (Forget You)            |                               CeeLo Green                                | 2010-09-11 |  3824 |
-| 116  |                  Thrift Shop                  |                  Macklemore & Ryan Lewis Featuring Wanz                  | 2012-09-15 |  3823 |
-| 117  |                  Need To Know                 |                                 Doja Cat                                 | 2021-06-26 |  3818 |
-| 118  |                 Cheap Thrills                 |                         Sia Featuring Sean Paul                          | 2016-03-05 |  3817 |
-| 119  |                I'm Good (Blue)                |                        David Guetta & Bebe Rexha                         | 2022-09-10 |  3796 |
-| 120  |                Back To Friends                |                                  sombr                                   | 2025-04-12 |  3785 |
-| 121  |                  Use Somebody                 |                              Kings Of Leon                               | 2008-10-11 |  3782 |
-| 122  |               Give Me Everything              |                Pitbull Featuring Ne-Yo, Afrojack & Nayer                 | 2011-04-16 |  3779 |
-| 123  |                      Wow.                     |                               Post Malone                                | 2019-01-05 |  3767 |
-| 124  |                   Man I Need                  |                               Olivia Dean                                | 2025-09-06 |  3753 |
+| 115  |                   Man I Need                  |                               Olivia Dean                                | 2025-09-06 |  3844 |
+| 116  |             F**k You! (Forget You)            |                               CeeLo Green                                | 2010-09-11 |  3824 |
+| 117  |                  Thrift Shop                  |                  Macklemore & Ryan Lewis Featuring Wanz                  | 2012-09-15 |  3823 |
+| 118  |                  Need To Know                 |                                 Doja Cat                                 | 2021-06-26 |  3818 |
+| 119  |                 Cheap Thrills                 |                         Sia Featuring Sean Paul                          | 2016-03-05 |  3817 |
+| 120  |                I'm Good (Blue)                |                        David Guetta & Bebe Rexha                         | 2022-09-10 |  3796 |
+| 121  |                Back To Friends                |                                  sombr                                   | 2025-04-12 |  3785 |
+| 122  |                  Use Somebody                 |                              Kings Of Leon                               | 2008-10-11 |  3782 |
+| 123  |               Give Me Everything              |                Pitbull Featuring Ne-Yo, Afrojack & Nayer                 | 2011-04-16 |  3779 |
+| 124  |                      Wow.                     |                               Post Malone                                | 2019-01-05 |  3767 |
 | 125  |                   Apologize                   |                     Timbaland Featuring OneRepublic                      | 2007-04-21 |  3741 |
 | 126  |                 Industry Baby                 |                         Lil Nas X & Jack Harlow                          | 2021-08-07 |  3733 |
 | 127  |                   Wildflower                  |                              Billie Eilish                               | 2024-06-01 |  3726 |
@@ -247,27 +247,27 @@
 | 219  |                   Unwritten                   |                           Natasha Bedingfield                            | 2005-12-10 |  3210 |
 | 220  |                 Bleeding Love                 |                               Leona Lewis                                | 2008-03-01 |  3207 |
 | 220  |                   Super Bass                  |                               Nicki Minaj                                | 2011-05-14 |  3207 |
-| 221  |               Paint The Town Red              |                                 Doja Cat                                 | 2023-08-19 |  3202 |
-| 222  |                   One Dance                   |                      Drake Featuring WizKid & Kyla                       | 2016-04-23 |  3193 |
-| 223  |                 Feel It Still                 |                            Portugal. The Man                             | 2017-07-08 |  3184 |
-| 224  |                   1, 2 Step                   |                      Ciara Featuring Missy Elliott                       | 2004-10-30 |  3180 |
-| 225  |                    Ignition                   |                                 R. Kelly                                 | 2002-11-09 |  3177 |
-| 226  |                  Blank Space                  |                               Taylor Swift                               | 2014-11-15 |  3171 |
-| 227  |                I'm The Problem                |                              Morgan Wallen                               | 2025-02-15 |  3169 |
-| 228  |                 Super Gremlin                 |                               Kodak Black                                | 2021-11-20 |  3165 |
-| 229  |                  Gold Digger                  |                     Kanye West Featuring Jamie Foxx                      | 2005-07-30 |  3162 |
-| 230  |                     Better                    |                                  Khalid                                  | 2018-09-29 |  3160 |
-| 231  |              With Arms Wide Open              |                                  Creed                                   | 2000-05-13 |  3157 |
-| 232  |                   Disturbia                   |                                 Rihanna                                  | 2008-07-05 |  3149 |
-| 233  |                    Timeless                   |                        The Weeknd & Playboi Carti                        | 2024-10-12 |  3147 |
-| 234  |                I Hope You Dance               |                              Lee Ann Womack                              | 2000-05-13 |  3137 |
-| 235  |                     Panda                     |                                Desiigner                                 | 2016-03-12 |  3132 |
-| 236  |                   Poker Face                  |                                Lady Gaga                                 | 2009-01-03 |  3122 |
-| 237  |                 The Way I Are                 |                     Timbaland Featuring Keri Hilson                      | 2007-06-16 |  3117 |
-| 238  |                  Sleigh Ride                  |                               The Ronettes                               | 2018-12-22 |  3116 |
-| 239  |                   The Reason                  |                                Hoobastank                                | 2004-03-20 |  3114 |
-| 240  |                     Taste                     |                            Sabrina Carpenter                             | 2024-09-07 |  3111 |
-| 241  |                 Choosin' Texas                |                               Ella Langley                               | 2025-11-01 |  3104 |
+| 221  |                 Choosin' Texas                |                               Ella Langley                               | 2025-11-01 |  3203 |
+| 222  |               Paint The Town Red              |                                 Doja Cat                                 | 2023-08-19 |  3202 |
+| 223  |                   One Dance                   |                      Drake Featuring WizKid & Kyla                       | 2016-04-23 |  3193 |
+| 224  |                 Feel It Still                 |                            Portugal. The Man                             | 2017-07-08 |  3184 |
+| 225  |                   1, 2 Step                   |                      Ciara Featuring Missy Elliott                       | 2004-10-30 |  3180 |
+| 226  |                    Ignition                   |                                 R. Kelly                                 | 2002-11-09 |  3177 |
+| 227  |                  Blank Space                  |                               Taylor Swift                               | 2014-11-15 |  3171 |
+| 228  |                I'm The Problem                |                              Morgan Wallen                               | 2025-02-15 |  3169 |
+| 229  |                 Super Gremlin                 |                               Kodak Black                                | 2021-11-20 |  3165 |
+| 230  |                  Gold Digger                  |                     Kanye West Featuring Jamie Foxx                      | 2005-07-30 |  3162 |
+| 231  |                     Better                    |                                  Khalid                                  | 2018-09-29 |  3160 |
+| 232  |              With Arms Wide Open              |                                  Creed                                   | 2000-05-13 |  3157 |
+| 233  |                   Disturbia                   |                                 Rihanna                                  | 2008-07-05 |  3149 |
+| 234  |                    Timeless                   |                        The Weeknd & Playboi Carti                        | 2024-10-12 |  3147 |
+| 235  |                I Hope You Dance               |                              Lee Ann Womack                              | 2000-05-13 |  3137 |
+| 236  |                     Panda                     |                                Desiigner                                 | 2016-03-12 |  3132 |
+| 237  |                   Poker Face                  |                                Lady Gaga                                 | 2009-01-03 |  3122 |
+| 238  |                 The Way I Are                 |                     Timbaland Featuring Keri Hilson                      | 2007-06-16 |  3117 |
+| 239  |                  Sleigh Ride                  |                               The Ronettes                               | 2018-12-22 |  3116 |
+| 240  |                   The Reason                  |                                Hoobastank                                | 2004-03-20 |  3114 |
+| 241  |                     Taste                     |                            Sabrina Carpenter                             | 2024-09-07 |  3111 |
 | 242  |                The Sweet Escape               |                       Gwen Stefani Featuring Akon                        | 2006-12-30 |  3098 |
 | 243  |                Someone Like You               |                                  Adele                                   | 2011-03-12 |  3096 |
 | 244  |                 Feel Good Inc                 |                                 Gorillaz                                 | 2005-05-28 |  3088 |
@@ -324,39 +324,39 @@
 | 290  |                 Because Of You                |                              Kelly Clarkson                              | 2005-09-03 |  2914 |
 | 291  |                   Sexy Chick                  |                       David Guetta Featuring Akon                        | 2009-08-15 |  2913 |
 | 292  |                    Tequila                    |                                Dan + Shay                                | 2018-01-27 |  2912 |
-| 293  |                     Blurry                    |                              Puddle Of Mudd                              | 2001-12-22 |  2908 |
-| 293  |                   Thank You                   |                                   Dido                                   | 2001-01-13 |  2908 |
-| 294  |              Underneath The Tree              |                              Kelly Clarkson                              | 2013-12-21 |  2906 |
-| 295  |                You're Beautiful               |                               James Blunt                                | 2005-11-12 |  2905 |
-| 296  |           DJ Got Us Fallin' In Love           |                         Usher Featuring Pitbull                          | 2010-07-31 |  2904 |
-| 297  |              Million Dollar Baby              |                              Tommy Richman                               | 2024-05-11 |  2903 |
-| 297  |                The Game Of Love               |                    Santana Featuring Michelle Branch                     | 2002-10-05 |  2903 |
-| 298  |           Boulevard Of Broken Dreams          |                                Green Day                                 | 2004-11-27 |  2900 |
-| 299  |                 Bad And Boujee                |                       Migos Featuring Lil Uzi Vert                       | 2016-12-03 |  2897 |
-| 300  |                   I Like It                   |                    Enrique Iglesias Featuring Pitbull                    | 2010-05-29 |  2896 |
-| 301  |                 Drip Too Hard                 |                             Lil Baby & Gunna                             | 2018-09-29 |  2895 |
-| 302  |                     Yukon                     |                              Justin Bieber                               | 2025-07-26 |  2890 |
-| 303  |                    Broccoli                   |                      D.R.A.M. Featuring Lil Yachty                       | 2016-07-02 |  2889 |
-| 304  |                 Safe And Sound                |                              Capital Cities                              | 2013-05-18 |  2888 |
-| 305  |                  I Got Better                 |                              Morgan Wallen                               | 2025-05-31 |  2885 |
-| 305  |                    Location                   |                                  Khalid                                  | 2017-01-28 |  2885 |
-| 306  |           Bodak Yellow (Money Moves)          |                                 Cardi B                                  | 2017-07-22 |  2883 |
-| 307  |                    My House                   |                                 Flo Rida                                 | 2015-11-28 |  2872 |
-| 308  |             Just Give Me A Reason             |                        P!nk Featuring Nate Ruess                         | 2013-03-02 |  2868 |
-| 309  |                    7 Rings                    |                              Ariana Grande                               | 2019-02-02 |  2863 |
-| 310  |                 Mr. Brightside                |                               The Killers                                | 2005-02-12 |  2857 |
-| 311  |                   Going Bad                   |                        Meek Mill Featuring Drake                         | 2018-12-15 |  2856 |
-| 312  |                    Ballin'                    |                          Mustard & Roddy Ricch                           | 2019-08-03 |  2853 |
-| 313  |                Let Me Love You                |                     DJ Snake Featuring Justin Bieber                     | 2016-08-27 |  2851 |
-| 313  |           This Is What You Came For           |                     Calvin Harris Featuring Rihanna                      | 2016-05-21 |  2851 |
-| 314  |        Buy U A Drank (Shawty Snappin')        |                        T-Pain Featuring Yung Joc                         | 2007-03-10 |  2841 |
-| 315  |                 Work From Home                |                  Fifth Harmony Featuring Ty Dolla $ign                   | 2016-03-19 |  2838 |
-| 316  |                    7 Years                    |                               Lukas Graham                               | 2016-02-06 |  2835 |
-| 317  |                   Easy On Me                  |                                  Adele                                   | 2021-10-23 |  2833 |
-| 318  |                 Gives You Hell                |                         The All-American Rejects                         | 2008-11-29 |  2831 |
-| 319  |                     Woman                     |                                 Doja Cat                                 | 2021-07-10 |  2830 |
-| 320  |               Habits (Stay High)              |                                 Tove Lo                                  | 2014-06-14 |  2825 |
-| 321  |           So Easy (To Fall In Love)           |                               Olivia Dean                                | 2025-10-11 |  2822 |
+| 293  |           So Easy (To Fall In Love)           |                               Olivia Dean                                | 2025-10-11 |  2910 |
+| 294  |                     Blurry                    |                              Puddle Of Mudd                              | 2001-12-22 |  2908 |
+| 294  |                   Thank You                   |                                   Dido                                   | 2001-01-13 |  2908 |
+| 295  |              Underneath The Tree              |                              Kelly Clarkson                              | 2013-12-21 |  2906 |
+| 296  |                You're Beautiful               |                               James Blunt                                | 2005-11-12 |  2905 |
+| 297  |           DJ Got Us Fallin' In Love           |                         Usher Featuring Pitbull                          | 2010-07-31 |  2904 |
+| 298  |              Million Dollar Baby              |                              Tommy Richman                               | 2024-05-11 |  2903 |
+| 298  |                The Game Of Love               |                    Santana Featuring Michelle Branch                     | 2002-10-05 |  2903 |
+| 299  |           Boulevard Of Broken Dreams          |                                Green Day                                 | 2004-11-27 |  2900 |
+| 300  |                 Bad And Boujee                |                       Migos Featuring Lil Uzi Vert                       | 2016-12-03 |  2897 |
+| 301  |                   I Like It                   |                    Enrique Iglesias Featuring Pitbull                    | 2010-05-29 |  2896 |
+| 302  |                 Drip Too Hard                 |                             Lil Baby & Gunna                             | 2018-09-29 |  2895 |
+| 303  |                     Yukon                     |                              Justin Bieber                               | 2025-07-26 |  2890 |
+| 304  |                    Broccoli                   |                      D.R.A.M. Featuring Lil Yachty                       | 2016-07-02 |  2889 |
+| 305  |                 Safe And Sound                |                              Capital Cities                              | 2013-05-18 |  2888 |
+| 306  |                  I Got Better                 |                              Morgan Wallen                               | 2025-05-31 |  2885 |
+| 306  |                    Location                   |                                  Khalid                                  | 2017-01-28 |  2885 |
+| 307  |           Bodak Yellow (Money Moves)          |                                 Cardi B                                  | 2017-07-22 |  2883 |
+| 308  |                    My House                   |                                 Flo Rida                                 | 2015-11-28 |  2872 |
+| 309  |             Just Give Me A Reason             |                        P!nk Featuring Nate Ruess                         | 2013-03-02 |  2868 |
+| 310  |                    7 Rings                    |                              Ariana Grande                               | 2019-02-02 |  2863 |
+| 311  |                 Mr. Brightside                |                               The Killers                                | 2005-02-12 |  2857 |
+| 312  |                   Going Bad                   |                        Meek Mill Featuring Drake                         | 2018-12-15 |  2856 |
+| 313  |                    Ballin'                    |                          Mustard & Roddy Ricch                           | 2019-08-03 |  2853 |
+| 314  |                Let Me Love You                |                     DJ Snake Featuring Justin Bieber                     | 2016-08-27 |  2851 |
+| 314  |           This Is What You Came For           |                     Calvin Harris Featuring Rihanna                      | 2016-05-21 |  2851 |
+| 315  |        Buy U A Drank (Shawty Snappin')        |                        T-Pain Featuring Yung Joc                         | 2007-03-10 |  2841 |
+| 316  |                 Work From Home                |                  Fifth Harmony Featuring Ty Dolla $ign                   | 2016-03-19 |  2838 |
+| 317  |                    7 Years                    |                               Lukas Graham                               | 2016-02-06 |  2835 |
+| 318  |                   Easy On Me                  |                                  Adele                                   | 2021-10-23 |  2833 |
+| 319  |                 Gives You Hell                |                         The All-American Rejects                         | 2008-11-29 |  2831 |
+| 320  |                     Woman                     |                                 Doja Cat                                 | 2021-07-10 |  2830 |
+| 321  |               Habits (Stay High)              |                                 Tove Lo                                  | 2014-06-14 |  2825 |
 | 322  |            Crank That (Soulja Boy)            |                            Soulja Boy Tell'em                            | 2007-07-28 |  2821 |
 | 323  |                     Smooth                    |                       Santana Featuring Rob Thomas                       | 2000-01-08 |  2820 |
 | 324  |                    Opalite                    |                               Taylor Swift                               | 2025-10-18 |  2819 |
