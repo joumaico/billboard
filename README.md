@@ -1,6 +1,6 @@
 # Billboard's Historical Ranking
 
-## Top 500 [2000-01-08 - 2026-09-12]
+## Top 500 [2000-01-08 - 2026-09-19]
 
 | Rank |                     Title                     |                                  Artist                                  |   Entry    | Score |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------------------: | :--------: | :---: |
@@ -32,10 +32,10 @@
 |  26  |                   Bad Habits                  |                                Ed Sheeran                                | 2021-07-10 |  4963 |
 |  26  |                  Uptown Funk!                 |                     Mark Ronson Featuring Bruno Mars                     | 2014-11-29 |  4963 |
 |  27  |              Rolling In The Deep              |                                  Adele                                   | 2010-12-25 |  4958 |
-|  28  |                    Flowers                    |                               Miley Cyrus                                | 2023-01-28 |  4927 |
-|  29  |                    Fast Car                   |                                Luke Combs                                | 2023-04-08 |  4910 |
-|  30  | Sunflower (Spider-Man: Into The Spider-Verse) |                          Post Malone & Swae Lee                          | 2018-11-03 |  4860 |
-|  31  |                   Man I Need                  |                               Olivia Dean                                | 2025-09-06 |  4859 |
+|  28  |                   Man I Need                  |                               Olivia Dean                                | 2025-09-06 |  4952 |
+|  29  |                    Flowers                    |                               Miley Cyrus                                | 2023-01-28 |  4927 |
+|  30  |                    Fast Car                   |                                Luke Combs                                | 2023-04-08 |  4910 |
+|  31  | Sunflower (Spider-Man: Into The Spider-Verse) |                          Post Malone & Swae Lee                          | 2018-11-03 |  4860 |
 |  32  |                 Pink Pony Club                |                              Chappell Roan                               | 2024-06-29 |  4848 |
 |  33  |                     I Hope                    |                   Gabby Barrett Featuring Charlie Puth                   | 2020-01-11 |  4841 |
 |  34  |                  Cruel Summer                 |                               Taylor Swift                               | 2019-09-07 |  4745 |
@@ -61,16 +61,16 @@
 |  52  |               Thinking Out Loud               |                                Ed Sheeran                                | 2014-10-25 |  4423 |
 |  53  |                   Sicko Mode                  |                               Travis Scott                               | 2018-08-18 |  4409 |
 |  54  |                Thinkin' Bout Me               |                              Morgan Wallen                               | 2023-03-18 |  4406 |
-|  55  |                 Last Christmas                |                                  Wham!                                   | 2017-01-07 |  4394 |
-|  56  |                   Trap Queen                  |                                Fetty Wap                                 | 2015-02-07 |  4383 |
-|  57  |                   Better Now                  |                               Post Malone                                | 2018-05-12 |  4366 |
-|  58  |                    Good 4 U                   |                              Olivia Rodrigo                              | 2021-05-29 |  4345 |
-|  59  |                     Ho Hey                    |                              The Lumineers                               | 2012-06-23 |  4343 |
-|  60  |                    Bad Guy                    |                              Billie Eilish                               | 2019-04-13 |  4342 |
-|  61  |                    Shivers                    |                                Ed Sheeran                                | 2021-09-25 |  4332 |
-|  62  |                     Golden                    |                   HUNTR/X: EJAE, Audrey Nuna & REI AMI                   | 2025-07-19 |  4310 |
-|  62  |              Hanging By A Moment              |                                Lifehouse                                 | 2001-02-10 |  4310 |
-|  63  |                 Choosin' Texas                |                               Ella Langley                               | 2025-11-01 |  4303 |
+|  55  |                 Choosin' Texas                |                               Ella Langley                               | 2025-11-01 |  4403 |
+|  56  |                 Last Christmas                |                                  Wham!                                   | 2017-01-07 |  4394 |
+|  57  |                   Trap Queen                  |                                Fetty Wap                                 | 2015-02-07 |  4383 |
+|  58  |                   Better Now                  |                               Post Malone                                | 2018-05-12 |  4366 |
+|  59  |                    Good 4 U                   |                              Olivia Rodrigo                              | 2021-05-29 |  4345 |
+|  60  |                     Ho Hey                    |                              The Lumineers                               | 2012-06-23 |  4343 |
+|  61  |                    Bad Guy                    |                              Billie Eilish                               | 2019-04-13 |  4342 |
+|  62  |                    Shivers                    |                                Ed Sheeran                                | 2021-09-25 |  4332 |
+|  63  |                     Golden                    |                   HUNTR/X: EJAE, Audrey Nuna & REI AMI                   | 2025-07-19 |  4310 |
+|  63  |              Hanging By A Moment              |                                Lifehouse                                 | 2001-02-10 |  4310 |
 |  64  |                   All Of Me                   |                               John Legend                                | 2013-09-21 |  4285 |
 |  65  |            Can't Stop The Feeling!            |                            Justin Timberlake                             | 2016-05-28 |  4277 |
 |  66  |                  Wake Me Up!                  |                                  Avicii                                  | 2013-07-13 |  4265 |
@@ -99,6 +99,7 @@
 |  87  |                   Despacito                   |            Luis Fonsi & Daddy Yankee Featuring Justin Bieber             | 2017-02-04 |  4033 |
 |  88  |                  Lucid Dreams                 |                                Juice WRLD                                | 2018-05-26 |  4029 |
 |  89  |                Good Luck, Babe!               |                              Chappell Roan                               | 2024-04-20 |  4023 |
+|  89  |           So Easy (To Fall In Love)           |                               Olivia Dean                                | 2025-10-11 |  4023 |
 |  90  |                      Mutt                     |                               Leon Thomas                                | 2025-02-08 |  4005 |
 |  91  |                      Sail                     |                                AWOLNATION                                | 2011-09-03 |  3997 |
 |  92  |                     Ghost                     |                              Justin Bieber                               | 2021-04-03 |  3994 |
@@ -114,7 +115,6 @@
 | 101  |           Drops Of Jupiter (Tell Me)          |                                  Train                                   | 2001-03-17 |  3932 |
 | 102  |            Cold Heart (PNAU Remix)            |                          Elton John & Dua Lipa                           | 2021-08-28 |  3931 |
 | 103  |              Big Girls Don't Cry              |                                  Fergie                                  | 2007-05-05 |  3930 |
-| 104  |           So Easy (To Fall In Love)           |                               Olivia Dean                                | 2025-10-11 |  3929 |
 | 104  |                  Some Nights                  |                                   fun.                                   | 2012-03-10 |  3929 |
 | 105  |                 Old Town Road                 |                   Lil Nas X Featuring Billy Ray Cyrus                    | 2019-03-16 |  3926 |
 | 106  |                Here Without You               |                               3 Doors Down                               | 2003-08-30 |  3923 |
@@ -225,32 +225,32 @@
 | 199  |                     Psycho                    |                   Post Malone Featuring Ty Dolla $ign                    | 2018-03-10 |  3293 |
 | 200  |        Earned It (Fifty Shades Of Grey)       |                                The Weeknd                                | 2015-01-10 |  3292 |
 | 201  |                A Thousand Miles               |                             Vanessa Carlton                              | 2002-03-02 |  3282 |
-| 202  |                     Bubbly                    |                              Colbie Caillat                              | 2007-06-02 |  3271 |
-| 203  |                   God's Plan                  |                                  Drake                                   | 2018-02-03 |  3267 |
-| 204  |                   24K Magic                   |                                Bruno Mars                                | 2016-10-29 |  3262 |
-| 204  |              Everything You Want              |                             Vertical Horizon                             | 2000-01-22 |  3262 |
-| 205  |                   Needed Me                   |                                 Rihanna                                  | 2016-02-20 |  3259 |
-| 205  |                   New Rules                   |                                 Dua Lipa                                 | 2017-08-19 |  3259 |
-| 206  |                 If You're Gone                |                             matchbox twenty                              | 2000-10-21 |  3253 |
-| 207  |                   Paralyzer                   |                              Finger Eleven                               | 2007-06-23 |  3250 |
-| 208  |                    TiK ToK                    |                                  Ke$ha                                   | 2009-10-24 |  3242 |
-| 209  |                      Rude                     |                                  MAGIC!                                  | 2014-05-10 |  3238 |
-| 210  |              Leave The Door Open              |                 Silk Sonic (Bruno Mars & Anderson .Paak)                 | 2021-03-20 |  3235 |
-| 211  |                    Firework                   |                                Katy Perry                                | 2010-11-06 |  3233 |
-| 212  |                  I Don't Care                 |                        Ed Sheeran & Justin Bieber                        | 2019-05-25 |  3229 |
-| 213  |                     Timber                    |                         Pitbull Featuring Ke$ha                          | 2013-10-26 |  3222 |
-| 214  |                 Unforgettable                 |                    French Montana Featuring Swae Lee                     | 2017-04-29 |  3221 |
-| 215  |                   You Right                   |                          Doja Cat & The Weeknd                           | 2021-07-10 |  3218 |
-| 216  |                  Need A Favor                 |                                Jelly Roll                                | 2023-04-15 |  3217 |
-| 217  |                  Life Is Good                 |                          Future Featuring Drake                          | 2020-01-25 |  3215 |
-| 217  |            Something Just Like This           |                       The Chainsmokers & Coldplay                        | 2017-03-11 |  3215 |
-| 218  |                      Bent                     |                             matchbox twenty                              | 2000-04-29 |  3212 |
-| 219  |                   Let Her Go                  |                                Passenger                                 | 2013-08-17 |  3211 |
-| 220  |                   Unwritten                   |                           Natasha Bedingfield                            | 2005-12-10 |  3210 |
-| 221  |                 Bleeding Love                 |                               Leona Lewis                                | 2008-03-01 |  3207 |
-| 221  |                   Super Bass                  |                               Nicki Minaj                                | 2011-05-14 |  3207 |
-| 222  |               Paint The Town Red              |                                 Doja Cat                                 | 2023-08-19 |  3202 |
-| 223  |                  I Just Might                 |                                Bruno Mars                                | 2026-01-24 |  3194 |
+| 202  |                  I Just Might                 |                                Bruno Mars                                | 2026-01-24 |  3280 |
+| 203  |                     Bubbly                    |                              Colbie Caillat                              | 2007-06-02 |  3271 |
+| 204  |                   God's Plan                  |                                  Drake                                   | 2018-02-03 |  3267 |
+| 205  |                   24K Magic                   |                                Bruno Mars                                | 2016-10-29 |  3262 |
+| 205  |              Everything You Want              |                             Vertical Horizon                             | 2000-01-22 |  3262 |
+| 206  |                   Needed Me                   |                                 Rihanna                                  | 2016-02-20 |  3259 |
+| 206  |                   New Rules                   |                                 Dua Lipa                                 | 2017-08-19 |  3259 |
+| 207  |                 If You're Gone                |                             matchbox twenty                              | 2000-10-21 |  3253 |
+| 208  |                   Paralyzer                   |                              Finger Eleven                               | 2007-06-23 |  3250 |
+| 209  |                    TiK ToK                    |                                  Ke$ha                                   | 2009-10-24 |  3242 |
+| 210  |                      Rude                     |                                  MAGIC!                                  | 2014-05-10 |  3238 |
+| 211  |              Leave The Door Open              |                 Silk Sonic (Bruno Mars & Anderson .Paak)                 | 2021-03-20 |  3235 |
+| 212  |                    Firework                   |                                Katy Perry                                | 2010-11-06 |  3233 |
+| 213  |                  I Don't Care                 |                        Ed Sheeran & Justin Bieber                        | 2019-05-25 |  3229 |
+| 214  |                     Timber                    |                         Pitbull Featuring Ke$ha                          | 2013-10-26 |  3222 |
+| 215  |                 Unforgettable                 |                    French Montana Featuring Swae Lee                     | 2017-04-29 |  3221 |
+| 216  |                   You Right                   |                          Doja Cat & The Weeknd                           | 2021-07-10 |  3218 |
+| 217  |                  Need A Favor                 |                                Jelly Roll                                | 2023-04-15 |  3217 |
+| 218  |                  Life Is Good                 |                          Future Featuring Drake                          | 2020-01-25 |  3215 |
+| 218  |            Something Just Like This           |                       The Chainsmokers & Coldplay                        | 2017-03-11 |  3215 |
+| 219  |                      Bent                     |                             matchbox twenty                              | 2000-04-29 |  3212 |
+| 220  |                   Let Her Go                  |                                Passenger                                 | 2013-08-17 |  3211 |
+| 221  |                   Unwritten                   |                           Natasha Bedingfield                            | 2005-12-10 |  3210 |
+| 222  |                 Bleeding Love                 |                               Leona Lewis                                | 2008-03-01 |  3207 |
+| 222  |                   Super Bass                  |                               Nicki Minaj                                | 2011-05-14 |  3207 |
+| 223  |               Paint The Town Red              |                                 Doja Cat                                 | 2023-08-19 |  3202 |
 | 224  |                   One Dance                   |                      Drake Featuring WizKid & Kyla                       | 2016-04-23 |  3193 |
 | 225  |                 Feel It Still                 |                            Portugal. The Man                             | 2017-07-08 |  3184 |
 | 226  |                   1, 2 Step                   |                      Ciara Featuring Missy Elliott                       | 2004-10-30 |  3180 |
@@ -382,51 +382,51 @@
 | 334  |                    SexyBack                   |                            Justin Timberlake                             | 2006-07-22 |  2780 |
 | 335  |                    Grenade                    |                                Bruno Mars                                | 2010-10-16 |  2778 |
 | 336  |              Set Fire To The Rain             |                                  Adele                                   | 2011-03-12 |  2776 |
-| 337  |                      Suge                     |                                  DaBaby                                  | 2019-04-13 |  2774 |
-| 338  |                      Ride                     |                            Twenty One Pilots                             | 2016-04-02 |  2762 |
-| 338  |                Want To Want Me                |                               Jason Derulo                               | 2015-03-28 |  2762 |
-| 339  |                   The Motto                   |                        Drake Featuring Lil Wayne                         | 2011-12-03 |  2757 |
-| 340  |           Hold On, We're Going Home           |                       Drake Featuring Majid Jordan                       | 2013-08-24 |  2756 |
-| 341  |                     Say So                    |                      Doja Cat Featuring Nicki Minaj                      | 2020-01-18 |  2755 |
-| 342  |                 Teenage Dream                 |                                Katy Perry                                | 2010-08-07 |  2754 |
-| 343  |                I Won't Give Up                |                                Jason Mraz                                | 2012-01-21 |  2752 |
-| 344  |                Titi Me Pregunto               |                                Bad Bunny                                 | 2022-05-21 |  2749 |
-| 345  |               What Do You Mean?               |                              Justin Bieber                               | 2015-09-19 |  2748 |
-| 346  |                     No Air                    |                   Jordin Sparks Duet With Chris Brown                    | 2008-01-19 |  2747 |
-| 347  |                    Payphone                   |                      Maroon 5 Featuring Wiz Khalifa                      | 2012-05-05 |  2744 |
-| 348  |               Hey There Delilah               |                             Plain White T's                              | 2007-04-14 |  2743 |
-| 349  |                      Sad!                     |                               XXXTENTACION                               | 2018-03-17 |  2740 |
-| 350  |                 Stereo Hearts                 |                  Gym Class Heroes Featuring Adam Levine                  | 2011-07-02 |  2736 |
-| 351  |                   It's Time                   |                             Imagine Dragons                              | 2012-06-23 |  2735 |
-| 352  |                   Talk Dirty                  |                     Jason Derulo Featuring 2 Chainz                      | 2014-01-04 |  2734 |
-| 353  |              Let Me Blow Ya Mind              |                        Eve Featuring Gwen Stefani                        | 2001-04-28 |  2733 |
-| 354  |                    Hey Ya!                    |                                 OutKast                                  | 2003-10-18 |  2732 |
-| 355  |                 1-800-273-8255                |                  Logic Featuring Alessia Cara & Khalid                   | 2017-05-20 |  2730 |
-| 356  |                  Dance Monkey                 |                               Tones And I                                | 2019-10-19 |  2728 |
-| 356  |                Sorry Not Sorry                |                               Demi Lovato                                | 2017-07-29 |  2728 |
-| 356  |                 XO TOUR Llif3                 |                               Lil Uzi Vert                               | 2017-04-15 |  2728 |
-| 357  |                Watermelon Sugar               |                               Harry Styles                               | 2019-11-30 |  2725 |
-| 358  |                    Fallin'                    |                               Alicia Keys                                | 2001-06-16 |  2722 |
-| 358  |                 Santa Tell Me                 |                              Ariana Grande                               | 2014-12-13 |  2722 |
-| 359  |                  Love Me Not                  |                               Ravyn Lenae                                | 2025-04-12 |  2721 |
-| 359  |                     Wanted                    |                               Hunter Hayes                               | 2012-05-12 |  2721 |
-| 360  |        I Know You Want Me (Calle Ocho)        |                                 Pitbull                                  | 2009-03-14 |  2719 |
-| 361  |                Everybody Talks                |                                Neon Trees                                | 2012-03-31 |  2716 |
-| 362  |            Behind These Hazel Eyes            |                              Kelly Clarkson                              | 2005-04-23 |  2708 |
-| 362  |                   Starships                   |                               Nicki Minaj                                | 2012-03-03 |  2708 |
-| 363  |                 Wrecking Ball                 |                               Miley Cyrus                                | 2013-09-07 |  2707 |
-| 364  |                     Amazed                    |                                 Lonestar                                 | 2000-01-08 |  2704 |
-| 364  |                    I'm Real                   |                     Jennifer Lopez Featuring Ja Rule                     | 2001-07-07 |  2704 |
-| 365  |                  U Got It Bad                 |                                  Usher                                   | 2001-09-22 |  2703 |
-| 366  |                   Try Again                   |                                 Aaliyah                                  | 2000-03-18 |  2699 |
-| 366  |                   White Flag                  |                                   Dido                                   | 2003-09-20 |  2699 |
-| 367  |                  What I Want                  |                    Morgan Wallen Featuring Tate McRae                    | 2025-05-31 |  2698 |
-| 367  |                  Whatcha Say                  |                               Jason Derulo                               | 2009-08-29 |  2698 |
-| 368  |                      Hero                     |                             Enrique Iglesias                             | 2001-09-29 |  2697 |
-| 369  |               Forever After All               |                                Luke Combs                                | 2020-11-07 |  2695 |
-| 370  |                   Breakeven                   |                                The Script                                | 2009-12-19 |  2692 |
-| 371  |                   Wild Ones                   |                          Flo Rida Featuring Sia                          | 2012-01-07 |  2686 |
-| 372  |                     Be Her                    |                               Ella Langley                               | 2026-02-28 |  2683 |
+| 337  |                     Be Her                    |                               Ella Langley                               | 2026-02-28 |  2775 |
+| 338  |                      Suge                     |                                  DaBaby                                  | 2019-04-13 |  2774 |
+| 339  |                      Ride                     |                            Twenty One Pilots                             | 2016-04-02 |  2762 |
+| 339  |                Want To Want Me                |                               Jason Derulo                               | 2015-03-28 |  2762 |
+| 340  |                   The Motto                   |                        Drake Featuring Lil Wayne                         | 2011-12-03 |  2757 |
+| 341  |           Hold On, We're Going Home           |                       Drake Featuring Majid Jordan                       | 2013-08-24 |  2756 |
+| 342  |                     Say So                    |                      Doja Cat Featuring Nicki Minaj                      | 2020-01-18 |  2755 |
+| 343  |                 Teenage Dream                 |                                Katy Perry                                | 2010-08-07 |  2754 |
+| 344  |                I Won't Give Up                |                                Jason Mraz                                | 2012-01-21 |  2752 |
+| 345  |                Titi Me Pregunto               |                                Bad Bunny                                 | 2022-05-21 |  2749 |
+| 346  |               What Do You Mean?               |                              Justin Bieber                               | 2015-09-19 |  2748 |
+| 347  |                     No Air                    |                   Jordin Sparks Duet With Chris Brown                    | 2008-01-19 |  2747 |
+| 348  |                    Payphone                   |                      Maroon 5 Featuring Wiz Khalifa                      | 2012-05-05 |  2744 |
+| 349  |               Hey There Delilah               |                             Plain White T's                              | 2007-04-14 |  2743 |
+| 350  |                      Sad!                     |                               XXXTENTACION                               | 2018-03-17 |  2740 |
+| 351  |                 Stereo Hearts                 |                  Gym Class Heroes Featuring Adam Levine                  | 2011-07-02 |  2736 |
+| 352  |                   It's Time                   |                             Imagine Dragons                              | 2012-06-23 |  2735 |
+| 353  |                   Talk Dirty                  |                     Jason Derulo Featuring 2 Chainz                      | 2014-01-04 |  2734 |
+| 354  |              Let Me Blow Ya Mind              |                        Eve Featuring Gwen Stefani                        | 2001-04-28 |  2733 |
+| 355  |                    Hey Ya!                    |                                 OutKast                                  | 2003-10-18 |  2732 |
+| 356  |                 1-800-273-8255                |                  Logic Featuring Alessia Cara & Khalid                   | 2017-05-20 |  2730 |
+| 357  |                  Dance Monkey                 |                               Tones And I                                | 2019-10-19 |  2728 |
+| 357  |                Sorry Not Sorry                |                               Demi Lovato                                | 2017-07-29 |  2728 |
+| 357  |                 XO TOUR Llif3                 |                               Lil Uzi Vert                               | 2017-04-15 |  2728 |
+| 358  |                Watermelon Sugar               |                               Harry Styles                               | 2019-11-30 |  2725 |
+| 359  |                    Fallin'                    |                               Alicia Keys                                | 2001-06-16 |  2722 |
+| 359  |                 Santa Tell Me                 |                              Ariana Grande                               | 2014-12-13 |  2722 |
+| 360  |                  Love Me Not                  |                               Ravyn Lenae                                | 2025-04-12 |  2721 |
+| 360  |                     Wanted                    |                               Hunter Hayes                               | 2012-05-12 |  2721 |
+| 361  |        I Know You Want Me (Calle Ocho)        |                                 Pitbull                                  | 2009-03-14 |  2719 |
+| 362  |                Everybody Talks                |                                Neon Trees                                | 2012-03-31 |  2716 |
+| 363  |            Behind These Hazel Eyes            |                              Kelly Clarkson                              | 2005-04-23 |  2708 |
+| 363  |                   Starships                   |                               Nicki Minaj                                | 2012-03-03 |  2708 |
+| 364  |                 Wrecking Ball                 |                               Miley Cyrus                                | 2013-09-07 |  2707 |
+| 365  |                     Amazed                    |                                 Lonestar                                 | 2000-01-08 |  2704 |
+| 365  |                    I'm Real                   |                     Jennifer Lopez Featuring Ja Rule                     | 2001-07-07 |  2704 |
+| 366  |                  U Got It Bad                 |                                  Usher                                   | 2001-09-22 |  2703 |
+| 367  |                   Try Again                   |                                 Aaliyah                                  | 2000-03-18 |  2699 |
+| 367  |                   White Flag                  |                                   Dido                                   | 2003-09-20 |  2699 |
+| 368  |                  What I Want                  |                    Morgan Wallen Featuring Tate McRae                    | 2025-05-31 |  2698 |
+| 368  |                  Whatcha Say                  |                               Jason Derulo                               | 2009-08-29 |  2698 |
+| 369  |                      Hero                     |                             Enrique Iglesias                             | 2001-09-29 |  2697 |
+| 370  |               Forever After All               |                                Luke Combs                                | 2020-11-07 |  2695 |
+| 371  |                   Breakeven                   |                                The Script                                | 2009-12-19 |  2692 |
+| 372  |                   Wild Ones                   |                          Flo Rida Featuring Sia                          | 2012-01-07 |  2686 |
 | 373  |                Dance The Night                |                                 Dua Lipa                                 | 2023-06-10 |  2679 |
 | 374  |                   Photograph                  |                                Nickelback                                | 2005-09-10 |  2673 |
 | 374  |        There's Nothing Holdin' Me Back        |                               Shawn Mendes                               | 2017-05-13 |  2673 |
@@ -554,49 +554,49 @@
 | 464  |            Hit 'Em Up Style (Oops!)           |                               Blu Cantrell                               | 2001-05-05 |  2457 |
 | 465  |                     Mercy                     |                 Kanye West, Big Sean, Pusha T, 2 Chainz                  | 2012-04-21 |  2456 |
 | 466  |                     Damn!                     |                      YoungBloodZ Featuring Lil Jon                       | 2003-08-09 |  2452 |
-| 467  |                  Say It Right                 |                              Nelly Furtado                               | 2006-11-25 |  2447 |
-| 468  |                     Loyal                     |  Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga   | 2014-02-01 |  2446 |
-| 469  |                    Sunroof                    |                            Nicky Youre & dazy                            | 2022-06-11 |  2443 |
-| 470  |       Case Of The Ex (Whatcha Gonna Do)       |                                   Mya                                    | 2000-08-19 |  2441 |
-| 471  |                  Ex's & Oh's                  |                                Elle King                                 | 2015-07-25 |  2439 |
-| 472  |               I Don't Wanna Know              |                  Mario Winans Featuring Enya & P. Diddy                  | 2004-02-21 |  2438 |
-| 473  |                    Titanium                   |                        David Guetta Featuring Sia                        | 2011-08-27 |  2437 |
-| 474  |              Best Day Of My Life              |                             American Authors                             | 2013-11-30 |  2436 |
-| 474  |                 Thank U, Next                 |                              Ariana Grande                               | 2018-11-17 |  2436 |
-| 475  |                     Ridin'                    |                  Chamillionaire Featuring Krayzie Bone                   | 2006-03-04 |  2435 |
-| 476  |                   Post To Be                  |                Omarion Featuring Chris Brown & Jhene Aiko                | 2015-01-24 |  2434 |
-| 476  |                    Redbone                    |                             Childish Gambino                             | 2016-12-10 |  2434 |
-| 477  |                 Live Your Life                |                          T.I. Featuring Rihanna                          | 2008-10-11 |  2432 |
-| 478  |       Christmas (Baby Please Come Home)       |                               Darlene Love                               | 2018-12-29 |  2429 |
-| 478  |                    Essence                    |                  Wizkid Featuring Justin Bieber & Tems                   | 2021-07-17 |  2429 |
-| 479  |                    Lollipop                   |                     Lil Wayne Featuring Static Major                     | 2008-03-29 |  2427 |
-| 480  |                  Differences                  |                                 Ginuwine                                 | 2001-07-28 |  2424 |
-| 481  |                    My Love                    |                     Justin Timberlake Featuring T.I.                     | 2006-09-23 |  2422 |
-| 482  |                  Side To Side                 |                   Ariana Grande Featuring Nicki Minaj                    | 2016-09-17 |  2419 |
-| 483  |                    Our Song                   |                               Taylor Swift                               | 2007-10-13 |  2418 |
-| 484  |                      Here                     |                               Alessia Cara                               | 2015-08-22 |  2417 |
-| 484  |                 Hips Don't Lie                |                      Shakira Featuring Wyclef Jean                       | 2006-04-01 |  2417 |
-| 484  |                  Just A Dream                 |                                  Nelly                                   | 2010-09-04 |  2417 |
-| 485  |                    Buttons                    |                 The Pussycat Dolls Featuring Snoop Dogg                  | 2006-05-27 |  2414 |
-| 485  |                     Hello                     |                                  Adele                                   | 2015-11-14 |  2414 |
-| 486  |            Independent Women Part I           |                             Destiny's Child                              | 2000-09-23 |  2413 |
-| 487  |                  On The Floor                 |                     Jennifer Lopez Featuring Pitbull                     | 2011-03-12 |  2412 |
-| 488  |                     Tipsy                     |                                  J-Kwon                                  | 2004-01-17 |  2408 |
-| 489  |                California Gurls               |                     Katy Perry Featuring Snoop Dogg                      | 2010-05-29 |  2403 |
-| 490  |                  It Will Rain                 |                                Bruno Mars                                | 2011-10-15 |  2401 |
-| 491  |                    Cuff It                    |                                 Beyonce                                  | 2022-08-13 |  2397 |
-| 491  |                   Fireflies                   |                                 Owl City                                 | 2009-09-05 |  2397 |
-| 491  |                     Ran$om                    |                                Lil Tecca                                 | 2019-06-15 |  2397 |
-| 492  |                  What's Luv?                  |                        Fat Joe Featuring Ashanti                         | 2002-02-16 |  2395 |
-| 493  |                    Far Away                   |                                Nickelback                                | 2006-08-05 |  2394 |
-| 494  |               Where The Party At              |                          Jagged Edge With Nelly                          | 2001-06-02 |  2392 |
-| 495  |                  Good As Hell                 |                                  Lizzo                                   | 2019-09-07 |  2389 |
-| 495  |  It's Beginning To Look A Lot Like Christmas  | Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra | 2018-12-29 |  2389 |
-| 495  |               Underneath It All               |                       No Doubt Featuring Lady Saw                        | 2002-08-31 |  2389 |
-| 496  |                     I Do!!                    |                                   Toya                                   | 2001-06-02 |  2387 |
-| 496  |                   Stateside                   |                     PinkPantheress With Zara Larsson                     | 2026-01-17 |  2387 |
-| 497  |           (Hot S**t) Country Grammar          |                                  Nelly                                   | 2000-04-29 |  2384 |
-| 498  |              Dirty Little Secret              |                         The All-American Rejects                         | 2005-08-06 |  2383 |
-| 498  |                    Jealous                    |                                Nick Jonas                                | 2014-09-27 |  2383 |
-| 499  |                    Stronger                   |                                Kanye West                                | 2007-08-11 |  2380 |
-| 500  |                     Savage                    |                  Megan Thee Stallion Featuring Beyonce                   | 2020-03-28 |  2378 |
+| 467  |                  Risk It All                  |                                Bruno Mars                                | 2026-03-14 |  2450 |
+| 468  |                  Say It Right                 |                              Nelly Furtado                               | 2006-11-25 |  2447 |
+| 469  |                     Loyal                     |  Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga   | 2014-02-01 |  2446 |
+| 470  |                    Sunroof                    |                            Nicky Youre & dazy                            | 2022-06-11 |  2443 |
+| 471  |       Case Of The Ex (Whatcha Gonna Do)       |                                   Mya                                    | 2000-08-19 |  2441 |
+| 472  |                  Ex's & Oh's                  |                                Elle King                                 | 2015-07-25 |  2439 |
+| 473  |               I Don't Wanna Know              |                  Mario Winans Featuring Enya & P. Diddy                  | 2004-02-21 |  2438 |
+| 474  |                    Titanium                   |                        David Guetta Featuring Sia                        | 2011-08-27 |  2437 |
+| 475  |              Best Day Of My Life              |                             American Authors                             | 2013-11-30 |  2436 |
+| 475  |                 Thank U, Next                 |                              Ariana Grande                               | 2018-11-17 |  2436 |
+| 476  |                     Ridin'                    |                  Chamillionaire Featuring Krayzie Bone                   | 2006-03-04 |  2435 |
+| 477  |                   Post To Be                  |                Omarion Featuring Chris Brown & Jhene Aiko                | 2015-01-24 |  2434 |
+| 477  |                    Redbone                    |                             Childish Gambino                             | 2016-12-10 |  2434 |
+| 478  |                 Live Your Life                |                          T.I. Featuring Rihanna                          | 2008-10-11 |  2432 |
+| 479  |       Christmas (Baby Please Come Home)       |                               Darlene Love                               | 2018-12-29 |  2429 |
+| 479  |                    Essence                    |                  Wizkid Featuring Justin Bieber & Tems                   | 2021-07-17 |  2429 |
+| 480  |                    Lollipop                   |                     Lil Wayne Featuring Static Major                     | 2008-03-29 |  2427 |
+| 481  |                  Differences                  |                                 Ginuwine                                 | 2001-07-28 |  2424 |
+| 482  |                    My Love                    |                     Justin Timberlake Featuring T.I.                     | 2006-09-23 |  2422 |
+| 483  |                  Side To Side                 |                   Ariana Grande Featuring Nicki Minaj                    | 2016-09-17 |  2419 |
+| 484  |                    Our Song                   |                               Taylor Swift                               | 2007-10-13 |  2418 |
+| 485  |                      Here                     |                               Alessia Cara                               | 2015-08-22 |  2417 |
+| 485  |                 Hips Don't Lie                |                      Shakira Featuring Wyclef Jean                       | 2006-04-01 |  2417 |
+| 485  |                  Just A Dream                 |                                  Nelly                                   | 2010-09-04 |  2417 |
+| 486  |                    Buttons                    |                 The Pussycat Dolls Featuring Snoop Dogg                  | 2006-05-27 |  2414 |
+| 486  |                     Hello                     |                                  Adele                                   | 2015-11-14 |  2414 |
+| 487  |            Independent Women Part I           |                             Destiny's Child                              | 2000-09-23 |  2413 |
+| 488  |                  On The Floor                 |                     Jennifer Lopez Featuring Pitbull                     | 2011-03-12 |  2412 |
+| 489  |                     Tipsy                     |                                  J-Kwon                                  | 2004-01-17 |  2408 |
+| 490  |                California Gurls               |                     Katy Perry Featuring Snoop Dogg                      | 2010-05-29 |  2403 |
+| 491  |                  It Will Rain                 |                                Bruno Mars                                | 2011-10-15 |  2401 |
+| 492  |                    Cuff It                    |                                 Beyonce                                  | 2022-08-13 |  2397 |
+| 492  |                   Fireflies                   |                                 Owl City                                 | 2009-09-05 |  2397 |
+| 492  |                     Ran$om                    |                                Lil Tecca                                 | 2019-06-15 |  2397 |
+| 493  |                  What's Luv?                  |                        Fat Joe Featuring Ashanti                         | 2002-02-16 |  2395 |
+| 494  |                    Far Away                   |                                Nickelback                                | 2006-08-05 |  2394 |
+| 495  |               Where The Party At              |                          Jagged Edge With Nelly                          | 2001-06-02 |  2392 |
+| 496  |                  Good As Hell                 |                                  Lizzo                                   | 2019-09-07 |  2389 |
+| 496  |  It's Beginning To Look A Lot Like Christmas  | Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra | 2018-12-29 |  2389 |
+| 496  |               Underneath It All               |                       No Doubt Featuring Lady Saw                        | 2002-08-31 |  2389 |
+| 497  |                     I Do!!                    |                                   Toya                                   | 2001-06-02 |  2387 |
+| 497  |                   Stateside                   |                     PinkPantheress With Zara Larsson                     | 2026-01-17 |  2387 |
+| 498  |           (Hot S**t) Country Grammar          |                                  Nelly                                   | 2000-04-29 |  2384 |
+| 499  |              Dirty Little Secret              |                         The All-American Rejects                         | 2005-08-06 |  2383 |
+| 499  |                    Jealous                    |                                Nick Jonas                                | 2014-09-27 |  2383 |
+| 500  |                    Stronger                   |                                Kanye West                                | 2007-08-11 |  2380 |
